@@ -1,14 +1,16 @@
 # [Rug Pull Games][1]
 
-🙌 Welcome to the team [Rug Pull Games][1]
+🙌 Welcome to [Rug Pull Games][1]
 
 👌 We are a game studio in web3.
 
-🥕 [RPG404][2]: A tiny NFT game on Ethereum. Free mint on [rpg404.com][2]. 
+🥕 [RPG404][2]: A tiny NFT game on Ethereum mainnet. 
 
-🌀 RPG404 ERC721 NFTs on [Opensea][3]
+🪙 Free mint on [rpg404.com][2]. 
 
-🐤 Follow us on [Twitter][4]
+🌀 RPG404 ERC721 NFTs on [Opensea.io][3].
+
+🐤 Follow us on [Twitter][4].
 
 
 [1]: https://rug-pull.games/
