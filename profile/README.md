@@ -17,3 +17,7 @@
 [2]: https://rpg404.com/
 [3]: https://opensea.io/collection/rpg-404/
 [4]: https://twitter.com/intent/follow?screen_name=rug_pull_games/
+
+
+
+![image](https://github.com/rugpullgames/.github/assets/4829591/0cb4947a-bb1c-4a87-98b9-9283943e01e1)
